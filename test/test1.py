@@ -140,3 +140,4 @@ from bs4 import BeautifulSoup
 #         writer.writerow(line)
 #     # 直接写入一行，接受一个可迭代对象作为参数
 print("hello world")
+print(0)
